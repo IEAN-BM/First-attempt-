@@ -7,5 +7,4 @@ List = list(s)
 print(List)
 for i in List:
     sum = sum + i
-#sum = sum(List)
 print(sum)
